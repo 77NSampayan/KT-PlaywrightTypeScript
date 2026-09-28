@@ -870,3 +870,875 @@ Call log:
 2026-07-29 17:11:22 [INFO] [Reporter]: Test Ended: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - PASSED (3927ms)
 2026-07-29 17:11:23 [INFO] [Reporter]: Test run finished. Status: passed
 2026-07-29 17:11:23 [INFO] [Reporter]: All 0 test(s) passed.
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Start of BeforeEach
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Navigating to the Sauce Demo login page...
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Start of BeforeEach
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Navigating to the Sauce Demo login page...
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Page loaded and stable after navigation.
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Page loaded and stable after navigation.
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Landed on the Sauce Demo login page.
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: End of BeforeEach
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Performing login action.
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Entering username: standard_user
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Filling element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully filled element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Entering password.
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Landed on the Sauce Demo login page.
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: End of BeforeEach
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Performing login action.
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Entering username: locked_out_user
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Filling element "locator('#user-name')" with value: "locked_out_user"
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Clicking the Login button.
+2026-09-28 13:48:25 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully filled element "locator('#user-name')" with value: "locked_out_user"
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Entering password.
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Clicking the Login button.
+2026-09-28 13:48:25 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Start of BeforeEach
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Navigating to the Sauce Demo login page...
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Page loaded and stable after navigation.
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Landed on the Sauce Demo login page.
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: End of BeforeEach
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Performing login action.
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Entering username: 
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Filling element "locator('#user-name')" with value: ""
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully filled element "locator('#user-name')" with value: ""
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Entering password.
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Clicking the Login button.
+2026-09-28 13:48:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:48:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:48:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Login action completed.
+2026-09-28 13:48:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Asserting login error message contains text: "Epic sadface: Username is required"
+2026-09-28 13:48:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Asserting 1 elements to contain text: "Epic sadface: Username is required"
+2026-09-28 13:48:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Username is required"
+2026-09-28 13:48:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 13:48:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 13:48:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Username is required".
+2026-09-28 13:48:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Assertion passed: All 1 elements contain text "Epic sadface: Username is required".
+2026-09-28 13:48:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Assertion passed: Error message contains expected text.
+2026-09-28 13:48:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:48:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Login action completed.
+2026-09-28 13:48:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Asserting login error message contains text: "Epic sadface: Sorry, this user has been locked out."
+2026-09-28 13:48:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Asserting 1 elements to contain text: "Epic sadface: Sorry, this user has been locked out."
+2026-09-28 13:48:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Sorry, this user has been locked out."
+2026-09-28 13:48:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 13:48:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:48:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 13:48:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Login action completed.
+2026-09-28 13:48:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting that landed in the Inventory (Products) Page.
+2026-09-28 13:48:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting element "locator('.app_logo')" to be visible.
+2026-09-28 13:48:32 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Sorry, this user has been locked out.".
+2026-09-28 13:48:32 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Assertion passed: All 1 elements contain text "Epic sadface: Sorry, this user has been locked out.".
+2026-09-28 13:48:32 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Assertion passed: Error message contains expected text.
+2026-09-28 13:48:32 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: Element "locator('.app_logo')" is visible.
+2026-09-28 13:48:32 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting 1 elements to have text: "Products"
+2026-09-28 13:48:32 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting element "locator('.title')" to have text: "Products"
+2026-09-28 13:48:32 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Waiting for element to be visible: "locator('.title')"
+2026-09-28 13:48:32 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Element is now visible: "locator('.title')"
+2026-09-28 13:48:32 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: Element "locator('.title')" has text "Products".
+2026-09-28 13:48:32 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: All 1 elements have text "Products".
+2026-09-28 13:48:32 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: Landed in Inventory Page.
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Start of BeforeEach
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Navigating to the Sauce Demo login page...
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Start of BeforeEach
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Navigating to the Sauce Demo login page...
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Page loaded and stable after navigation.
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Start of BeforeEach
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Navigating to the Sauce Demo login page...
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Landed on the Sauce Demo login page.
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: End of BeforeEach
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Performing login action.
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Entering username: standard_user
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Filling element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Page loaded and stable after navigation.
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully filled element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Entering password.
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Filling element "locator('#password')" with value: ""
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully filled element "locator('#password')" with value: ""
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Clicking the Login button.
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Login action completed.
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Asserting login error message contains text: "Epic sadface: Password is required"
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Asserting 1 elements to contain text: "Epic sadface: Password is required"
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Password is required"
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Landed on the Sauce Demo login page.
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: End of BeforeEach
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Performing login action.
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Entering username: standard_user
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Filling element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Password is required".
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Assertion passed: All 1 elements contain text "Epic sadface: Password is required".
+2026-09-28 13:48:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Assertion passed: Error message contains expected text.
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully filled element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Entering password.
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Filling element "locator('#password')" with value: "wrong_password"
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully filled element "locator('#password')" with value: "wrong_password"
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Clicking the Login button.
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Login action completed.
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Asserting login error message contains text: "Epic sadface: Username and password do not match any user in this service"
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Asserting 1 elements to contain text: "Epic sadface: Username and password do not match any user in this service"
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Username and password do not match any user in this service"
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Page loaded and stable after navigation.
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Username and password do not match any user in this service".
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Assertion passed: All 1 elements contain text "Epic sadface: Username and password do not match any user in this service".
+2026-09-28 13:48:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Assertion passed: Error message contains expected text.
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Landed on the Sauce Demo login page.
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: End of BeforeEach
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Performing login action.
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Entering username: problem_user
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Filling element "locator('#user-name')" with value: "problem_user"
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully filled element "locator('#user-name')" with value: "problem_user"
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Entering password.
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Clicking the Login button.
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Login action completed.
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting that landed in the Inventory (Products) Page.
+2026-09-28 13:48:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting element "locator('.app_logo')" to be visible.
+2026-09-28 13:48:34 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: Element "locator('.app_logo')" is visible.
+2026-09-28 13:48:34 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting 1 elements to have text: "Products"
+2026-09-28 13:48:34 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting element "locator('.title')" to have text: "Products"
+2026-09-28 13:48:34 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Waiting for element to be visible: "locator('.title')"
+2026-09-28 13:48:34 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Element is now visible: "locator('.title')"
+2026-09-28 13:48:34 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: Element "locator('.title')" has text "Products".
+2026-09-28 13:48:34 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: All 1 elements have text "Products".
+2026-09-28 13:48:34 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: Landed in Inventory Page.
+2026-09-28 13:53:08 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:53:08 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:53:08 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:53:08 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:53:08 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Start of BeforeEach
+2026-09-28 13:53:08 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Navigating to the Sauce Demo login page...
+2026-09-28 13:53:08 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:53:08 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:53:08 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:53:08 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:53:08 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Start of BeforeEach
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Navigating to the Sauce Demo login page...
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Start of BeforeEach
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Navigating to the Sauce Demo login page...
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Page loaded and stable after navigation.
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Page loaded and stable after navigation.
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Landed on the Sauce Demo login page.
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: End of BeforeEach
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Performing login action.
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Entering username: locked_out_user
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Filling element "locator('#user-name')" with value: "locked_out_user"
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully filled element "locator('#user-name')" with value: "locked_out_user"
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Entering password.
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Clicking the Login button.
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Login action completed.
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Asserting login error message contains text: "Epic sadface: Sorry, this user has been locked out."
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Asserting 1 elements to contain text: "Epic sadface: Sorry, this user has been locked out."
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Sorry, this user has been locked out."
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Sorry, this user has been locked out.".
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Assertion passed: All 1 elements contain text "Epic sadface: Sorry, this user has been locked out.".
+2026-09-28 13:53:09 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Assertion passed: Error message contains expected text.
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Page loaded and stable after navigation.
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Landed on the Sauce Demo login page.
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: End of BeforeEach
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Performing login action.
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Entering username: standard_user
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Filling element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully filled element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Entering password.
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Landed on the Sauce Demo login page.
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: End of BeforeEach
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Performing login action.
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Entering username: 
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Filling element "locator('#user-name')" with value: ""
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Clicking the Login button.
+2026-09-28 13:53:09 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully filled element "locator('#user-name')" with value: ""
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Entering password.
+2026-09-28 13:53:09 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:53:10 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:53:10 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Clicking the Login button.
+2026-09-28 13:53:10 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:53:10 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:53:10 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Login action completed.
+2026-09-28 13:53:10 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting that landed in the Inventory (Products) Page.
+2026-09-28 13:53:10 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting element "locator('.app_logo')" to be visible.
+2026-09-28 13:53:10 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:53:10 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: Element "locator('.app_logo')" is visible.
+2026-09-28 13:53:10 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting 1 elements to have text: "Products"
+2026-09-28 13:53:10 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting element "locator('.title')" to have text: "Products"
+2026-09-28 13:53:10 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Waiting for element to be visible: "locator('.title')"
+2026-09-28 13:53:10 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Login action completed.
+2026-09-28 13:53:10 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Asserting login error message contains text: "Epic sadface: Username is required"
+2026-09-28 13:53:10 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Asserting 1 elements to contain text: "Epic sadface: Username is required"
+2026-09-28 13:53:10 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Username is required"
+2026-09-28 13:53:10 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 13:53:10 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Element is now visible: "locator('.title')"
+2026-09-28 13:53:10 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: Element "locator('.title')" has text "Products".
+2026-09-28 13:53:10 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: All 1 elements have text "Products".
+2026-09-28 13:53:10 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: Landed in Inventory Page.
+2026-09-28 13:53:10 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 13:53:10 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Username is required".
+2026-09-28 13:53:10 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Assertion passed: All 1 elements contain text "Epic sadface: Username is required".
+2026-09-28 13:53:10 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Assertion passed: Error message contains expected text.
+2026-09-28 13:53:10 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:53:10 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:53:10 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:53:10 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:53:10 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Start of BeforeEach
+2026-09-28 13:53:10 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Navigating to the Sauce Demo login page...
+2026-09-28 13:53:10 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:53:10 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Page loaded and stable after navigation.
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Landed on the Sauce Demo login page.
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: End of BeforeEach
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Performing login action.
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Entering username: standard_user
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Filling element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully filled element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Entering password.
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Filling element "locator('#password')" with value: "wrong_password"
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully filled element "locator('#password')" with value: "wrong_password"
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Clicking the Login button.
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Login action completed.
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Asserting login error message contains text: "Epic sadface: Username and password do not match any user in this service"
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Asserting 1 elements to contain text: "Epic sadface: Username and password do not match any user in this service"
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Username and password do not match any user in this service"
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Username and password do not match any user in this service".
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Assertion passed: All 1 elements contain text "Epic sadface: Username and password do not match any user in this service".
+2026-09-28 13:53:11 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Assertion passed: Error message contains expected text.
+2026-09-28 13:53:11 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Start of BeforeEach
+2026-09-28 13:53:11 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Navigating to the Sauce Demo login page...
+2026-09-28 13:53:11 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:53:11 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Start of BeforeEach
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Navigating to the Sauce Demo login page...
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Page loaded and stable after navigation.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:53:11 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:53:11 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Page loaded and stable after navigation.
+2026-09-28 13:53:11 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Landed on the Sauce Demo login page.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: End of BeforeEach
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Performing login action.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Entering username: problem_user
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Filling element "locator('#user-name')" with value: "problem_user"
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully filled element "locator('#user-name')" with value: "problem_user"
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Entering password.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Clicking the Login button.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Login action completed.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting that landed in the Inventory (Products) Page.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting element "locator('.app_logo')" to be visible.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: Element "locator('.app_logo')" is visible.
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting 1 elements to have text: "Products"
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting element "locator('.title')" to have text: "Products"
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Waiting for element to be visible: "locator('.title')"
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Element is now visible: "locator('.title')"
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: Element "locator('.title')" has text "Products".
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: All 1 elements have text "Products".
+2026-09-28 13:53:11 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: Landed in Inventory Page.
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Landed on the Sauce Demo login page.
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: End of BeforeEach
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Performing login action.
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Entering username: standard_user
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Filling element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully filled element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Entering password.
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Filling element "locator('#password')" with value: ""
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully filled element "locator('#password')" with value: ""
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Clicking the Login button.
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Login action completed.
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Asserting login error message contains text: "Epic sadface: Password is required"
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Asserting 1 elements to contain text: "Epic sadface: Password is required"
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Password is required"
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Password is required".
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Assertion passed: All 1 elements contain text "Epic sadface: Password is required".
+2026-09-28 13:53:12 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Assertion passed: Error message contains expected text.
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Start of BeforeEach
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Navigating to the Sauce Demo login page...
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Start of BeforeEach
+2026-09-28 13:59:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Navigating to the Sauce Demo login page...
+2026-09-28 13:59:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:59:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Start of BeforeEach
+2026-09-28 13:59:26 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Navigating to the Sauce Demo login page...
+2026-09-28 13:59:26 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:59:26 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Page loaded and stable after navigation.
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:59:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:59:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:59:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Page loaded and stable after navigation.
+2026-09-28 13:59:26 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Landed on the Sauce Demo login page.
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: End of BeforeEach
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Performing login action.
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Entering username: locked_out_user
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Filling element "locator('#user-name')" with value: "locked_out_user"
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully filled element "locator('#user-name')" with value: "locked_out_user"
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Entering password.
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Clicking the Login button.
+2026-09-28 13:59:26 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Landed on the Sauce Demo login page.
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: End of BeforeEach
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Performing login action.
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Entering username: 
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Filling element "locator('#user-name')" with value: ""
+2026-09-28 13:59:27 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully filled element "locator('#user-name')" with value: ""
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Entering password.
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:59:27 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Login action completed.
+2026-09-28 13:59:27 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Asserting login error message contains text: "Epic sadface: Sorry, this user has been locked out."
+2026-09-28 13:59:27 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Asserting 1 elements to contain text: "Epic sadface: Sorry, this user has been locked out."
+2026-09-28 13:59:27 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Sorry, this user has been locked out."
+2026-09-28 13:59:27 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 13:59:27 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:59:27 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Sorry, this user has been locked out.".
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Clicking the Login button.
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:59:27 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Assertion passed: All 1 elements contain text "Epic sadface: Sorry, this user has been locked out.".
+2026-09-28 13:59:27 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Assertion passed: Error message contains expected text.
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Page loaded and stable after navigation.
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Login action completed.
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Asserting login error message contains text: "Epic sadface: Username is required"
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Asserting 1 elements to contain text: "Epic sadface: Username is required"
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Username is required"
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Username is required".
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Assertion passed: All 1 elements contain text "Epic sadface: Username is required".
+2026-09-28 13:59:27 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Assertion passed: Error message contains expected text.
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Landed on the Sauce Demo login page.
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: End of BeforeEach
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Performing login action.
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Entering username: standard_user
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Filling element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully filled element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Entering password.
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Clicking the Login button.
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Login action completed.
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting that landed in the Inventory (Products) Page.
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting element "locator('.app_logo')" to be visible.
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: Element "locator('.app_logo')" is visible.
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting 1 elements to have text: "Products"
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting element "locator('.title')" to have text: "Products"
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Waiting for element to be visible: "locator('.title')"
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Element is now visible: "locator('.title')"
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: Element "locator('.title')" has text "Products".
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: All 1 elements have text "Products".
+2026-09-28 13:59:27 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: Landed in Inventory Page.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Start of BeforeEach
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Navigating to the Sauce Demo login page...
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Start of BeforeEach
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Navigating to the Sauce Demo login page...
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Page loaded and stable after navigation.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Landed on the Sauce Demo login page.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: End of BeforeEach
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Performing login action.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Entering username: standard_user
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Filling element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Page loaded and stable after navigation.
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully filled element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Entering password.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Filling element "locator('#password')" with value: "wrong_password"
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully filled element "locator('#password')" with value: "wrong_password"
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Clicking the Login button.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Landed on the Sauce Demo login page.
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: End of BeforeEach
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Performing login action.
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Entering username: standard_user
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Filling element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Login action completed.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Asserting login error message contains text: "Epic sadface: Username and password do not match any user in this service"
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Asserting 1 elements to contain text: "Epic sadface: Username and password do not match any user in this service"
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Username and password do not match any user in this service"
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Username and password do not match any user in this service".
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully filled element "locator('#user-name')" with value: "standard_user"
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Assertion passed: All 1 elements contain text "Epic sadface: Username and password do not match any user in this service".
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Assertion passed: Error message contains expected text.
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Start of BeforeEach
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Navigating to the Sauce Demo login page...
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Entering password.
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Filling element "locator('#password')" with value: ""
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully filled element "locator('#password')" with value: ""
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Clicking the Login button.
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Login action completed.
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Asserting login error message contains text: "Epic sadface: Password is required"
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Asserting 1 elements to contain text: "Epic sadface: Password is required"
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Password is required"
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Password is required".
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Assertion passed: All 1 elements contain text "Epic sadface: Password is required".
+2026-09-28 13:59:28 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Assertion passed: Error message contains expected text.
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Page loaded and stable after navigation.
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Element is now visible: "locator('#user-name')"
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Landed on the Sauce Demo login page.
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: End of BeforeEach
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Performing login action.
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Entering username: problem_user
+2026-09-28 13:59:28 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Filling element "locator('#user-name')" with value: "problem_user"
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully filled element "locator('#user-name')" with value: "problem_user"
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Entering password.
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Clicking the Login button.
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Login action completed.
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting that landed in the Inventory (Products) Page.
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting element "locator('.app_logo')" to be visible.
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: Element "locator('.app_logo')" is visible.
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting 1 elements to have text: "Products"
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting element "locator('.title')" to have text: "Products"
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Waiting for element to be visible: "locator('.title')"
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Element is now visible: "locator('.title')"
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: Element "locator('.title')" has text "Products".
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: All 1 elements have text "Products".
+2026-09-28 13:59:29 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: Landed in Inventory Page.
+2026-09-28 14:00:30 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 14:00:30 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 14:00:30 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 14:00:30 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 14:00:30 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Start of BeforeEach
+2026-09-28 14:00:30 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Navigating to the Sauce Demo login page...
+2026-09-28 14:00:30 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 14:00:30 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Start of BeforeEach
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Navigating to the Sauce Demo login page...
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Start of BeforeEach
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Navigating to the Sauce Demo login page...
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Page loaded and stable after navigation.
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Page loaded and stable after navigation.
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Element is now visible: "locator('#user-name')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Landed on the Sauce Demo login page.
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: End of BeforeEach
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Performing login action.
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Entering username: standard_user
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Filling element "locator('#user-name')" with value: "standard_user"
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Element is now visible: "locator('#user-name')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Landed on the Sauce Demo login page.
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: End of BeforeEach
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Performing login action.
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Entering username: 
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Filling element "locator('#user-name')" with value: ""
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully filled element "locator('#user-name')" with value: "standard_user"
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Entering password.
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully filled element "locator('#user-name')" with value: ""
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Entering password.
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Clicking the Login button.
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Clicking the Login button.
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Accessing Playwright Page object directly.
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Page loaded and stable after navigation.
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Login action completed.
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Asserting login error message contains text: "Epic sadface: Username is required"
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Asserting 1 elements to contain text: "Epic sadface: Username is required"
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Username is required"
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Element is now visible: "locator('#user-name')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Username is required".
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Landed on the Sauce Demo login page.
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: End of BeforeEach
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Performing login action.
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Entering username: locked_out_user
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Filling element "locator('#user-name')" with value: "locked_out_user"
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Assertion passed: All 1 elements contain text "Epic sadface: Username is required".
+2026-09-28 14:00:31 [INFO] [TC_LP_0005 - Verify login fails when the username is missing]: Assertion passed: Error message contains expected text.
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully filled element "locator('#user-name')" with value: "locked_out_user"
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Entering password.
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Login action completed.
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting that landed in the Inventory (Products) Page.
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting element "locator('.app_logo')" to be visible.
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Clicking the Login button.
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: Element "locator('.app_logo')" is visible.
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting 1 elements to have text: "Products"
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Asserting element "locator('.title')" to have text: "Products"
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Waiting for element to be visible: "locator('.title')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Element is now visible: "locator('.title')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: Element "locator('.title')" has text "Products".
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: All 1 elements have text "Products".
+2026-09-28 14:00:31 [INFO] [TC_LP_0001 - Verify successful login with the standard user]: Assertion passed: Landed in Inventory Page.
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Login action completed.
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Asserting login error message contains text: "Epic sadface: Sorry, this user has been locked out."
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Asserting 1 elements to contain text: "Epic sadface: Sorry, this user has been locked out."
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Sorry, this user has been locked out."
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Sorry, this user has been locked out.".
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Assertion passed: All 1 elements contain text "Epic sadface: Sorry, this user has been locked out.".
+2026-09-28 14:00:31 [INFO] [TC_LP_0003 - Verify the locked out user cannot log in]: Assertion passed: Error message contains expected text.
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Start of BeforeEach
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Navigating to the Sauce Demo login page...
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Start of BeforeEach
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Navigating to the Sauce Demo login page...
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Start of BeforeEach
+2026-09-28 14:00:32 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Navigating to the Sauce Demo login page...
+2026-09-28 14:00:32 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Navigating to URL: https://www.saucedemo.com/
+2026-09-28 14:00:32 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Page loaded and stable after navigation.
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Page loaded and stable after navigation.
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Element is now visible: "locator('#user-name')"
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Landed on the Sauce Demo login page.
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: End of BeforeEach
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Performing login action.
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Entering username: standard_user
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Filling element "locator('#user-name')" with value: "standard_user"
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully filled element "locator('#user-name')" with value: "standard_user"
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Entering password.
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Filling element "locator('#password')" with value: ""
+2026-09-28 14:00:32 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully navigated to: https://www.saucedemo.com/
+2026-09-28 14:00:32 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Accessing Playwright Page object directly.
+2026-09-28 14:00:32 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Page loaded and stable after navigation.
+2026-09-28 14:00:32 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Waiting for element to be visible: "locator('#user-name')"
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully filled element "locator('#password')" with value: ""
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Element is now visible: "locator('#user-name')"
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Clicking the Login button.
+2026-09-28 14:00:32 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Landed on the Sauce Demo login page.
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: End of BeforeEach
+2026-09-28 14:00:32 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Accessing Playwright Page object directly.
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Performing login action.
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Entering username: problem_user
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Filling element "locator('#user-name')" with value: "problem_user"
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully filled element "locator('#user-name')" with value: "problem_user"
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Entering password.
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Filling element "locator('#password')" with value: "secret_sauce"
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully filled element "locator('#password')" with value: "secret_sauce"
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Clicking the Login button.
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Element is now visible: "locator('#user-name')"
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Landed on the Sauce Demo login page.
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: End of BeforeEach
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Performing login action.
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Entering username: standard_user
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Filling element "locator('#user-name')" with value: "standard_user"
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully filled element "locator('#user-name')" with value: "standard_user"
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Entering password.
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Filling element "locator('#password')" with value: "wrong_password"
+2026-09-28 14:00:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 14:00:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Login action completed.
+2026-09-28 14:00:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Asserting login error message contains text: "Epic sadface: Password is required"
+2026-09-28 14:00:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Asserting 1 elements to contain text: "Epic sadface: Password is required"
+2026-09-28 14:00:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Password is required"
+2026-09-28 14:00:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 14:00:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 14:00:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Password is required".
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully filled element "locator('#password')" with value: "wrong_password"
+2026-09-28 14:00:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Assertion passed: All 1 elements contain text "Epic sadface: Password is required".
+2026-09-28 14:00:33 [INFO] [TC_LP_0006 - Verify login fails when the password is missing]: Assertion passed: Error message contains expected text.
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Clicking the Login button.
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Clicking on element with selector: "locator('#login-button')"
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Login action completed.
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting that landed in the Inventory (Products) Page.
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting element "locator('.app_logo')" to be visible.
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: Element "locator('.app_logo')" is visible.
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting 1 elements to have text: "Products"
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Asserting element "locator('.title')" to have text: "Products"
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Waiting for element to be visible: "locator('.title')"
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Successfully clicked on element: "locator('#login-button')"
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Login action completed.
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Asserting login error message contains text: "Epic sadface: Username and password do not match any user in this service"
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Asserting 1 elements to contain text: "Epic sadface: Username and password do not match any user in this service"
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Asserting element "locator('[data-test="error"]')" to contain text: "Epic sadface: Username and password do not match any user in this service"
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Waiting for element to be visible: "locator('[data-test="error"]')"
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Element is now visible: "locator('.title')"
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Element is now visible: "locator('[data-test="error"]')"
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: Element "locator('.title')" has text "Products".
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: All 1 elements have text "Products".
+2026-09-28 14:00:33 [INFO] [TC_LP_0002 - Verify the problem user can still reach the Products page]: Assertion passed: Landed in Inventory Page.
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Assertion passed: Element "locator('[data-test="error"]')" contains text "Epic sadface: Username and password do not match any user in this service".
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Assertion passed: All 1 elements contain text "Epic sadface: Username and password do not match any user in this service".
+2026-09-28 14:00:33 [INFO] [TC_LP_0004 - Verify login fails with an invalid password]: Assertion passed: Error message contains expected text.

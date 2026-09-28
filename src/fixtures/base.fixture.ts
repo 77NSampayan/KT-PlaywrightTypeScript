@@ -1,13 +1,13 @@
 import { test as base } from '@playwright/test';
 import { Logger } from '@utils/logger-util';
-import { LoginPage } from '@pages/login.page';
-import { SuperAdminPage } from 'src/pages/admin/superadmin.pages';
+import { SauceDemoLoginPage } from '@pages/sauce-demo/login.page';
+import { SauceDemoInventoryPage } from '@pages/sauce-demo/inventory.page';
 
 // Define types for our custom fixtures
 export type TestFixtures = {
   logger: Logger;
-  loginPage: LoginPage;
-  superAdminPage: SuperAdminPage;
+  sauceDemoLoginPage: SauceDemoLoginPage;
+  sauceDemoInventoryPage: SauceDemoInventoryPage;
   // navigation: Navigation;
   // Add other page objects here as needed, e.g., inventoryPage: InventoryPage;
 };
@@ -26,20 +26,16 @@ export const test = base.extend<TestFixtures>({
   // --- Page Object Fixtures ---
   // This fixture provides an instance of the LoginPage.
   // It depends on the 'page' fixture from Playwright and our custom 'logger' fixture.
-  loginPage: async({ page, logger }, use) => {
-    const loginPage = new LoginPage(page, logger);
-    await use(loginPage);
+  sauceDemoLoginPage: async({ page, logger }, use) => {
+    const sauceDemoLoginPage = new SauceDemoLoginPage(page, logger);
+    await use(sauceDemoLoginPage);
   },
 
-  superAdminPage: async({ page, logger }, use) => {
-    const superAdminPage = new SuperAdminPage(page, logger);
-    await use(superAdminPage);
+  sauceDemoInventoryPage: async({ page, logger }, use) => {
+    const sauceDemoInventoryPage = new SauceDemoInventoryPage(page, logger);
+    await use(sauceDemoInventoryPage);
   }
 
-  // navigation: async ({ page, logger }, use) => {
-  //   const navigation = new Navigation(page, logger);
-  //   await use(navigation);
-  // },
 
   // You can add more page object fixtures here following the same pattern.
   // Example:

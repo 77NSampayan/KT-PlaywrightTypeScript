@@ -5,17 +5,6 @@ import path from 'path';
 // Load environment variables from .env file
 dotenv.config({ path: path.resolve(__dirname, '.env') });
 
-// Define test user credentials from environment variables (GitHub Secrets)
-export const superAdminCredentials = {
-  username: process.env.SUPER_ADMIN_USERNAME || 'update_in_env_file',
-  password: process.env.SUPER_ADMIN_PASSWORD || 'update_in_env_file'
-};
-
-// export const testUser2 = {
-//   email: process.env.CHICHAY_BOY_QA_EMAIL || 'update_in_env_file',
-//   password: process.env.CHICHAY_BOY_QA_PASSWORD || 'update_in_env_file'
-// };
-
 /**
  * See https://playwright.dev/docs/test-configuration for more information.
  */
