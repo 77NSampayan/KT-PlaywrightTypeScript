@@ -1,0 +1,872 @@
+2026-07-21 10:30:52 [INFO] [Reporter]: Starting test run with 1 project(s).
+2026-07-21 10:30:53 [INFO] [Reporter]: Test Started: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  (Project: Unknown Project)
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:30:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Test
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:30:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:30:53 [INFO] [Reporter]: Test Ended: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - FAILED (20ms)
+2026-07-21 10:30:53 [ERROR] [Reporter]: Test Failure: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - Error: browserType.launch: Executable doesn't exist at C:\Users\NSAMPAYAN\AppData\Local\ms-playwright\chromium-1228\chrome-win64\chrome.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     npx playwright install                                 ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+Error: browserType.launch: Executable doesn't exist at C:\Users\NSAMPAYAN\AppData\Local\ms-playwright\chromium-1228\chrome-win64\chrome.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     npx playwright install                                 ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-07-21 10:30:53 [INFO] [Reporter]: Test run finished. Status: failed
+2026-07-21 10:30:53 [ERROR] [Reporter]: 0 test(s) failed, 0 test(s) passed.
+2026-07-21 10:32:19 [INFO] [Reporter]: Starting test run with 1 project(s).
+2026-07-21 10:32:20 [INFO] [Reporter]: Test Started: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  (Project: Unknown Project)
+2026-07-21 10:32:20 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:20 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:20 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:20 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:20 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:20 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:20 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Test
+2026-07-21 10:32:36 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:36 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:36 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:36 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:37 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:37 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:37 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:37 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:37 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:37 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:37 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:37 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 10:32:37 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:37 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:37 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:37 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 10:32:37 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 10:32:37 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 10:32:37 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 10:32:37 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to URL: (baseURL from config)
+2026-07-21 10:32:37 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 10:32:39 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 10:32:39 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:39 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:39 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully navigated to: https://automationexercise.com/
+2026-07-21 10:32:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 10:32:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Page loaded and stable after navigation.
+2026-07-21 10:32:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Waiting for element to be visible: "getByText('LOGIN')"
+2026-07-21 10:32:39 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Element is now visible: "getByText('LOGIN')"
+2026-07-21 10:32:39 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:39 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:39 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:39 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:39 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:39 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:39 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:39 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 10:32:43 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:44 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:44 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:44 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:44 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:44 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:32:44 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:44 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:32:44 [INFO] [Reporter]: Test Ended: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - PASSED (7114ms)
+2026-07-21 10:32:45 [INFO] [Reporter]: Test run finished. Status: passed
+2026-07-21 10:32:45 [INFO] [Reporter]: All 0 test(s) passed.
+2026-07-21 10:34:01 [INFO] [Reporter]: Starting test run with 1 project(s).
+2026-07-21 10:34:01 [INFO] [Reporter]: Test Started: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  (Project: Unknown Project)
+2026-07-21 10:34:01 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:01 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:01 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:01 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:01 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:01 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:01 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:01 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Test
+2026-07-21 10:34:02 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:02 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:02 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:02 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:02 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:02 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:02 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:02 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:02 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:02 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:02 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:02 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 10:34:02 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:02 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:02 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:02 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 10:34:02 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 10:34:02 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 10:34:02 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 10:34:02 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to URL: (baseURL from config)
+2026-07-21 10:34:02 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:03 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:03 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully navigated to: https://qa-test-management-dev.ap-southeast-1.elasticbeanstalk.com/seven-seven-qa/login
+2026-07-21 10:34:03 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 10:34:03 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Page loaded and stable after navigation.
+2026-07-21 10:34:03 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Waiting for element to be visible: "getByText('LOGIN')"
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:03 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Element is now visible: "getByText('LOGIN')"
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:03 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:03 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 10:34:03 [INFO] [Reporter]: Test Ended: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - PASSED (1432ms)
+2026-07-21 10:34:04 [INFO] [Reporter]: Test run finished. Status: passed
+2026-07-21 10:34:04 [INFO] [Reporter]: All 0 test(s) passed.
+2026-07-21 11:12:28 [INFO] [Reporter]: Starting test run with 1 project(s).
+2026-07-21 11:12:29 [INFO] [Reporter]: Test Started: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  (Project: Unknown Project)
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:29 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Test Nem
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:29 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:29 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:29 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:12:29 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:12:29 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:12:29 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:12:29 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 11:12:29 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to URL: (baseURL from config)
+2026-07-21 11:12:29 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:12:30 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:30 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:12:30 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:30 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:30 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:30 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully navigated to: https://qa-test-management-dev.ap-southeast-1.elasticbeanstalk.com/seven-seven-qa/login
+2026-07-21 11:12:30 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:12:30 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Page loaded and stable after navigation.
+2026-07-21 11:12:30 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Waiting for element to be visible: "getByText('LOGIN')"
+2026-07-21 11:12:30 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:30 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Element is now visible: "getByText('LOGIN')"
+2026-07-21 11:12:30 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 11:12:30 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Performing login action.
+2026-07-21 11:12:30 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Entering username: qsuperadmin
+2026-07-21 11:12:30 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Filling element "locator('#username')" with value: "qsuperadmin"
+2026-07-21 11:12:30 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:30 [ERROR] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Failed to fill element "locator('#username')" with value: "qsuperadmin". Error: locator.fill: Error: strict mode violation: locator('#username') resolved to 2 elements:
+    1) <input value="" type="text" id="username" name="username" aria-invalid="false" class="MuiInputBase-input MuiInput-input css-mnn31"/> aka getByRole('textbox', { name: 'Username' })
+    2) <p id="username" class="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium css-18eqa8y"></p> aka locator('#username').nth(1)
+
+Call log:
+[2m  - waiting for locator('#username')[22m
+
+2026-07-21 11:12:30 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:30 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:31 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:12:31 [INFO] [Reporter]: Test Ended: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - FAILED (1699ms)
+2026-07-21 11:12:31 [ERROR] [Reporter]: Test Failure: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - Error: Fill action failed: locator.fill: Error: strict mode violation: locator('#username') resolved to 2 elements:
+    1) <input value="" type="text" id="username" name="username" aria-invalid="false" class="MuiInputBase-input MuiInput-input css-mnn31"/> aka getByRole('textbox', { name: 'Username' })
+    2) <p id="username" class="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium css-18eqa8y"></p> aka locator('#username').nth(1)
+
+Call log:
+[2m  - waiting for locator('#username')[22m
+
+Error: Fill action failed: locator.fill: Error: strict mode violation: locator('#username') resolved to 2 elements:
+    1) <input value="" type="text" id="username" name="username" aria-invalid="false" class="MuiInputBase-input MuiInput-input css-mnn31"/> aka getByRole('textbox', { name: 'Username' })
+    2) <p id="username" class="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium css-18eqa8y"></p> aka locator('#username').nth(1)
+
+Call log:
+[2m  - waiting for locator('#username')[22m
+
+    at ElementActions.fill (C:\.automation\Personal\Playwright-TypeScript\src\actions\element.actions.ts:90:13)
+    at LoginPage.fillUsername (C:\.automation\Personal\Playwright-TypeScript\src\pages\login.page.ts:46:5)
+    at LoginPage.login (C:\.automation\Personal\Playwright-TypeScript\src\pages\login.page.ts:80:5)
+    at C:\.automation\Personal\Playwright-TypeScript\tests\login-page.spec.ts:15:9
+2026-07-21 11:12:32 [INFO] [Reporter]: Test run finished. Status: failed
+2026-07-21 11:12:32 [ERROR] [Reporter]: 0 test(s) failed, 0 test(s) passed.
+2026-07-21 11:18:23 [INFO] [Reporter]: Starting test run with 1 project(s).
+2026-07-21 11:18:24 [INFO] [Reporter]: Test Started: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  (Project: Unknown Project)
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:24 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Test Nem
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:24 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:24 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:24 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:18:24 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:18:24 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:18:24 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:18:24 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 11:18:24 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to URL: (baseURL from config)
+2026-07-21 11:18:24 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:18:25 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:18:25 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:25 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:25 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully navigated to: https://qa-test-management-dev.ap-southeast-1.elasticbeanstalk.com/seven-seven-qa/login
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Page loaded and stable after navigation.
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Waiting for element to be visible: "getByText('LOGIN')"
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Element is now visible: "getByText('LOGIN')"
+2026-07-21 11:18:25 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:25 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Performing login action.
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Entering username: qsuperadmin
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Filling element "locator('input#username')" with value: "qsuperadmin"
+2026-07-21 11:18:25 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully filled element "locator('input#username')" with value: "qsuperadmin"
+2026-07-21 11:18:25 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Entering password.
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Filling element "locator('input#password')" with value: "Qsuperadmin@77"
+2026-07-21 11:18:25 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully filled element "locator('input#password')" with value: "Qsuperadmin@77"
+2026-07-21 11:18:25 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Clicking the Login button.
+2026-07-21 11:18:25 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Clicking on element with selector: "getByText('AUTHENTICATE')"
+2026-07-21 11:18:26 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully clicked on element: "getByText('AUTHENTICATE')"
+2026-07-21 11:18:26 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:26 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:26 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Login action completed.
+2026-07-21 11:18:26 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Asserting that the landed in Admin Dashboard Page
+2026-07-21 11:18:26 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:26 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:26 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:26 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:26 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:26 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:26 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:26 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:26 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:26 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:26 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:27 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:27 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:27 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:27 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:27 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:27 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:27 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:27 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:27 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:27 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:18:27 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:27 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:18:28 [INFO] [Reporter]: Test Ended: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - FAILED (2840ms)
+2026-07-21 11:18:28 [ERROR] [Reporter]: Test Failure: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByText('Admin Dashboard')
+Expected: visible
+Error: strict mode violation: getByText('Admin Dashboard') resolved to 2 elements:
+    1) <h6 class="MuiTypography-root MuiTypography-h6 css-1pnwouy">Admin Dashboard</h6> aka getByRole('heading', { name: 'Admin Dashboard' })
+    2) <div class="MuiBox-root css-28bjv2">…</div> aka locator('#menu-appbar').getByText('Admin Dashboard')
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 30000ms[22m
+[2m  - waiting for getByText('Admin Dashboard')[22m
+
+Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByText('Admin Dashboard')
+Expected: visible
+Error: strict mode violation: getByText('Admin Dashboard') resolved to 2 elements:
+    1) <h6 class="MuiTypography-root MuiTypography-h6 css-1pnwouy">Admin Dashboard</h6> aka getByRole('heading', { name: 'Admin Dashboard' })
+    2) <div class="MuiBox-root css-28bjv2">…</div> aka locator('#menu-appbar').getByText('Admin Dashboard')
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 30000ms[22m
+[2m  - waiting for getByText('Admin Dashboard')[22m
+
+    at SuperAdminPage.expectLandedInAdminDashboard (C:\.automation\Personal\Playwright-TypeScript\src\pages\admin\superadmin.pages.ts:21:49)
+    at C:\.automation\Personal\Playwright-TypeScript\tests\login-page.spec.ts:16:9
+2026-07-21 11:18:28 [INFO] [Reporter]: Test run finished. Status: failed
+2026-07-21 11:18:28 [ERROR] [Reporter]: 0 test(s) failed, 0 test(s) passed.
+2026-07-21 11:20:54 [INFO] [Reporter]: Starting test run with 1 project(s).
+2026-07-21 11:20:55 [INFO] [Reporter]: Test Started: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  (Project: Unknown Project)
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:55 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Test Nem
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:55 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:55 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:55 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:20:55 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:20:55 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:20:55 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:20:55 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 11:20:55 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to URL: (baseURL from config)
+2026-07-21 11:20:55 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:20:56 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:20:56 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:56 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully navigated to: https://qa-test-management-dev.ap-southeast-1.elasticbeanstalk.com/seven-seven-qa/login
+2026-07-21 11:20:56 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Page loaded and stable after navigation.
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Waiting for element to be visible: "getByText('LOGIN')"
+2026-07-21 11:20:56 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Element is now visible: "getByText('LOGIN')"
+2026-07-21 11:20:56 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Performing login action.
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Entering username: qsuperadmin
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Filling element "locator('input#username')" with value: "qsuperadmin"
+2026-07-21 11:20:56 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully filled element "locator('input#username')" with value: "qsuperadmin"
+2026-07-21 11:20:56 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Entering password.
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Filling element "locator('input#password')" with value: "Qsuperadmin@77"
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully filled element "locator('input#password')" with value: "Qsuperadmin@77"
+2026-07-21 11:20:56 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:20:56 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Clicking the Login button.
+2026-07-21 11:20:56 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Clicking on element with selector: "getByText('AUTHENTICATE').locator('//h6')"
+2026-07-21 11:21:06 [ERROR] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Failed to click on element: "getByText('AUTHENTICATE').locator('//h6')". Error: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for getByText('AUTHENTICATE').locator('//h6')[22m
+
+2026-07-21 11:21:06 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:06 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:06 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:06 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:06 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:06 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:06 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:06 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:06 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:06 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:06 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:07 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:07 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:07 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:07 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:07 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:07 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:07 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:07 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:07 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:07 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:07 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:07 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:08 [INFO] [Reporter]: Test Ended: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - FAILED (11789ms)
+2026-07-21 11:21:08 [ERROR] [Reporter]: Test Failure: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - Error: Click action failed: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for getByText('AUTHENTICATE').locator('//h6')[22m
+
+Error: Click action failed: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for getByText('AUTHENTICATE').locator('//h6')[22m
+
+    at ElementActions.click (C:\.automation\Personal\Playwright-TypeScript\src\actions\element.actions.ts:50:13)
+    at LoginPage.authenticateCredential (C:\.automation\Personal\Playwright-TypeScript\src\pages\login.page.ts:67:5)
+    at LoginPage.login (C:\.automation\Personal\Playwright-TypeScript\src\pages\login.page.ts:82:5)
+    at C:\.automation\Personal\Playwright-TypeScript\tests\login-page.spec.ts:15:9
+2026-07-21 11:21:08 [INFO] [Reporter]: Test run finished. Status: failed
+2026-07-21 11:21:08 [ERROR] [Reporter]: 0 test(s) failed, 0 test(s) passed.
+2026-07-21 11:21:38 [INFO] [Reporter]: Starting test run with 1 project(s).
+2026-07-21 11:21:38 [INFO] [Reporter]: Test Started: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  (Project: Unknown Project)
+2026-07-21 11:21:38 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:38 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:38 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:38 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:38 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:38 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:38 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:38 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Test Nem
+2026-07-21 11:21:38 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:38 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:38 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:38 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:38 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:38 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:38 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:38 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:39 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:39 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:39 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:21:39 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:39 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:39 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:39 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:39 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:21:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:21:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:21:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:21:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 11:21:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to URL: (baseURL from config)
+2026-07-21 11:21:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:21:39 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:21:39 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:39 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:39 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully navigated to: https://qa-test-management-dev.ap-southeast-1.elasticbeanstalk.com/seven-seven-qa/login
+2026-07-21 11:21:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:21:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Page loaded and stable after navigation.
+2026-07-21 11:21:39 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Waiting for element to be visible: "getByText('LOGIN')"
+2026-07-21 11:21:40 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:40 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Element is now visible: "getByText('LOGIN')"
+2026-07-21 11:21:40 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:40 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 11:21:40 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Performing login action.
+2026-07-21 11:21:40 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Entering username: qsuperadmin
+2026-07-21 11:21:40 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Filling element "locator('input#username')" with value: "qsuperadmin"
+2026-07-21 11:21:40 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:40 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully filled element "locator('input#username')" with value: "qsuperadmin"
+2026-07-21 11:21:40 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:40 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Entering password.
+2026-07-21 11:21:40 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Filling element "locator('input#password')" with value: "Qsuperadmin@77"
+2026-07-21 11:21:40 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:40 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully filled element "locator('input#password')" with value: "Qsuperadmin@77"
+2026-07-21 11:21:40 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:40 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Clicking the Login button.
+2026-07-21 11:21:40 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Clicking on element with selector: "getByText('AUTHENTICATE')"
+2026-07-21 11:21:40 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully clicked on element: "getByText('AUTHENTICATE')"
+2026-07-21 11:21:40 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:21:40 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:21:40 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Login action completed.
+2026-07-21 11:21:40 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Asserting that the landed in Admin Dashboard Page
+2026-07-21 11:22:10 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:22:10 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:22:10 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:22:10 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:22:10 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:22:10 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:22:10 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:22:10 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:22:10 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:22:10 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:22:10 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:22:10 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:22:14 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:22:14 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:22:14 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:22:14 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:22:14 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:22:14 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:22:14 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:22:14 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:22:14 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:22:15 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:22:15 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:22:15 [INFO] [Reporter]: Test Ended: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - FAILED (35767ms)
+2026-07-21 11:22:15 [ERROR] [Reporter]: Test Failure: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByText('Admin Dashboard').locator('//h6')
+Expected: visible
+Timeout: 30000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 30000ms[22m
+[2m  - waiting for getByText('Admin Dashboard').locator('//h6')[22m
+
+Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByText('Admin Dashboard').locator('//h6')
+Expected: visible
+Timeout: 30000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 30000ms[22m
+[2m  - waiting for getByText('Admin Dashboard').locator('//h6')[22m
+
+    at SuperAdminPage.expectLandedInAdminDashboard (C:\.automation\Personal\Playwright-TypeScript\src\pages\admin\superadmin.pages.ts:21:49)
+    at C:\.automation\Personal\Playwright-TypeScript\tests\login-page.spec.ts:16:9
+2026-07-21 11:22:15 [INFO] [Reporter]: Test run finished. Status: failed
+2026-07-21 11:22:15 [ERROR] [Reporter]: 0 test(s) failed, 0 test(s) passed.
+2026-07-21 11:27:51 [INFO] [Reporter]: Starting test run with 1 project(s).
+2026-07-21 11:27:51 [INFO] [Reporter]: Test Started: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  (Project: Unknown Project)
+2026-07-21 11:27:51 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:51 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:51 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:51 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:51 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:51 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:51 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:51 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Test Nem
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:27:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:27:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:27:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:27:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 11:27:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to URL: (baseURL from config)
+2026-07-21 11:27:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:52 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:27:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully navigated to: https://qa-test-management-dev.ap-southeast-1.elasticbeanstalk.com/seven-seven-qa/login
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Page loaded and stable after navigation.
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Waiting for element to be visible: "getByText('LOGIN')"
+2026-07-21 11:27:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Element is now visible: "getByText('LOGIN')"
+2026-07-21 11:27:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Performing login action.
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Entering username: qsuperadmin
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Filling element "locator('input#username')" with value: "qsuperadmin"
+2026-07-21 11:27:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully filled element "locator('input#username')" with value: "qsuperadmin"
+2026-07-21 11:27:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Entering password.
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Filling element "locator('input#password')" with value: "Qsuperadmin@77"
+2026-07-21 11:27:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully filled element "locator('input#password')" with value: "Qsuperadmin@77"
+2026-07-21 11:27:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Clicking the Login button.
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Clicking on element with selector: "getByText('AUTHENTICATE')"
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully clicked on element: "getByText('AUTHENTICATE')"
+2026-07-21 11:27:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Login action completed.
+2026-07-21 11:27:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Asserting that the landed in Admin Dashboard Page
+2026-07-21 11:27:54 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:54 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Assertion passed: Landed in Admin Dashboard Page.
+2026-07-21 11:27:54 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:54 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:54 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:54 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:54 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:54 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:54 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:54 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:54 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:54 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:54 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:55 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:55 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 11:27:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:55 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 11:27:55 [INFO] [Reporter]: Test Ended: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - PASSED (2912ms)
+2026-07-21 11:27:55 [INFO] [Reporter]: Test run finished. Status: passed
+2026-07-21 11:27:55 [INFO] [Reporter]: All 0 test(s) passed.
+2026-07-21 14:06:49 [INFO] [Reporter]: Starting test run with 1 project(s).
+2026-07-21 14:06:50 [INFO] [Reporter]: Test Started: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  (Project: Unknown Project)
+2026-07-21 14:06:50 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:50 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:50 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:50 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:50 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:50 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:50 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:50 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:50 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:50 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:50 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:50 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:51 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:51 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:51 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:51 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:51 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:51 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:51 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:51 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 14:06:51 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 14:06:51 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 14:06:51 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 14:06:51 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 14:06:51 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to URL: (baseURL from config)
+2026-07-21 14:06:51 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 14:06:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:52 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:52 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully navigated to: https://qa-test-management-dev.ap-southeast-1.elasticbeanstalk.com/seven-seven-qa/login
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Page loaded and stable after navigation.
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Waiting for element to be visible: "getByText('LOGIN')"
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Element is now visible: "getByText('LOGIN')"
+2026-07-21 14:06:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:52 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Performing login action.
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Entering username: qsuperadmin
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Filling element "locator('input#username')" with value: "qsuperadmin"
+2026-07-21 14:06:52 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully filled element "locator('input#username')" with value: "qsuperadmin"
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Entering password.
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Filling element "locator('input#password')" with value: "Qsuperadmin@77"
+2026-07-21 14:06:52 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:52 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully filled element "locator('input#password')" with value: "Qsuperadmin@77"
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Clicking the Login button.
+2026-07-21 14:06:52 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Clicking on element with selector: "getByText('AUTHENTICATE')"
+2026-07-21 14:06:52 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:53 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully clicked on element: "getByText('AUTHENTICATE')"
+2026-07-21 14:06:53 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Login action completed.
+2026-07-21 14:06:53 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Asserting that the landed in Admin Dashboard Page
+2026-07-21 14:06:54 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:54 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Assertion passed: Landed in Admin Dashboard Page.
+2026-07-21 14:06:54 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:54 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:54 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:54 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:54 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:54 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:54 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:54 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:54 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:54 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:54 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:54 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:56 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:57 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:57 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:57 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-21 14:06:57 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:57 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-21 14:06:58 [INFO] [Reporter]: Test Ended: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - PASSED (6332ms)
+2026-07-21 14:07:00 [INFO] [Reporter]: Test run finished. Status: passed
+2026-07-21 14:07:00 [INFO] [Reporter]: All 0 test(s) passed.
+2026-07-29 17:11:17 [INFO] [Reporter]: Starting test run with 1 project(s).
+2026-07-29 17:11:17 [INFO] [Reporter]: Test Started: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  (Project: Unknown Project)
+2026-07-29 17:11:17 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:17 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:17 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:17 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:18 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:18 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:18 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:18 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:18 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:18 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:18 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:18 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:19 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:19 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:19 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:19 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:19 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:19 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:19 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:19 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-29 17:11:19 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-29 17:11:19 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-29 17:11:19 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-29 17:11:19 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Start of BeforeEach
+2026-07-29 17:11:19 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-29 17:11:19 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to URL: (baseURL from config)
+2026-07-29 17:11:19 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-29 17:11:19 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:19 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-29 17:11:19 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:19 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:19 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:19 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully navigated to: https://qa-test-management-dev.ap-southeast-1.elasticbeanstalk.com/seven-seven-qa/login
+2026-07-29 17:11:19 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-29 17:11:19 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Page loaded and stable after navigation.
+2026-07-29 17:11:19 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Waiting for element to be visible: "getByText('LOGIN')"
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Element is now visible: "getByText('LOGIN')"
+2026-07-29 17:11:20 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Navigating to the target page...
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: End of BeforeEach
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Accessing Playwright Page object directly.
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Performing login action.
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Entering username: qsuperadmin
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Filling element "locator('input#username')" with value: "qsuperadmin"
+2026-07-29 17:11:20 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:20 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:20 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:20 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:20 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:20 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully filled element "locator('input#username')" with value: "qsuperadmin"
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Entering password.
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Filling element "locator('input#password')" with value: "Qsuperadmin@77"
+2026-07-29 17:11:20 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully filled element "locator('input#password')" with value: "Qsuperadmin@77"
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Clicking the Login button.
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Clicking on element with selector: "getByText('AUTHENTICATE')"
+2026-07-29 17:11:20 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:20 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Successfully clicked on element: "getByText('AUTHENTICATE')"
+2026-07-29 17:11:20 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:20 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Login action completed.
+2026-07-29 17:11:20 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Asserting that the landed in Admin Dashboard Page
+2026-07-29 17:11:21 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:21 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:21 [INFO] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Assertion passed: Landed in Admin Dashboard Page.
+2026-07-29 17:11:21 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:21 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:21 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:21 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:21 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:21 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:21 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:21 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:21 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:21 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:21 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:21 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:21 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:22 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:22 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:22 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:22 [DEBUG] [Reporter]: Step Started: Unknown Step {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool "}
+2026-07-29 17:11:22 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:22 [DEBUG] [Reporter]: Step Ended: Unknown Step - PASSED {"test":"TC_AP_0001 - Verify Main Page screen of 77QA QA tool ","duration":0}
+2026-07-29 17:11:22 [INFO] [Reporter]: Test Ended: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - PASSED (3927ms)
+2026-07-29 17:11:23 [INFO] [Reporter]: Test run finished. Status: passed
+2026-07-29 17:11:23 [INFO] [Reporter]: All 0 test(s) passed.

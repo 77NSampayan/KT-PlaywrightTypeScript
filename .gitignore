@@ -1,0 +1,6 @@
+node_modules/**
+playwright-report/trace/**
+playwright-report/data/**
+playwright-report/index**
+
+**.png

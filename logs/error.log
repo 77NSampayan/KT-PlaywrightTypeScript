@@ -1,0 +1,114 @@
+2026-07-21 10:30:53 [ERROR] [Reporter]: Test Failure: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - Error: browserType.launch: Executable doesn't exist at C:\Users\NSAMPAYAN\AppData\Local\ms-playwright\chromium-1228\chrome-win64\chrome.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     npx playwright install                                 ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+Error: browserType.launch: Executable doesn't exist at C:\Users\NSAMPAYAN\AppData\Local\ms-playwright\chromium-1228\chrome-win64\chrome.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     npx playwright install                                 ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-07-21 10:30:53 [ERROR] [Reporter]: 0 test(s) failed, 0 test(s) passed.
+2026-07-21 11:12:30 [ERROR] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Failed to fill element "locator('#username')" with value: "qsuperadmin". Error: locator.fill: Error: strict mode violation: locator('#username') resolved to 2 elements:
+    1) <input value="" type="text" id="username" name="username" aria-invalid="false" class="MuiInputBase-input MuiInput-input css-mnn31"/> aka getByRole('textbox', { name: 'Username' })
+    2) <p id="username" class="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium css-18eqa8y"></p> aka locator('#username').nth(1)
+
+Call log:
+[2m  - waiting for locator('#username')[22m
+
+2026-07-21 11:12:31 [ERROR] [Reporter]: Test Failure: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - Error: Fill action failed: locator.fill: Error: strict mode violation: locator('#username') resolved to 2 elements:
+    1) <input value="" type="text" id="username" name="username" aria-invalid="false" class="MuiInputBase-input MuiInput-input css-mnn31"/> aka getByRole('textbox', { name: 'Username' })
+    2) <p id="username" class="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium css-18eqa8y"></p> aka locator('#username').nth(1)
+
+Call log:
+[2m  - waiting for locator('#username')[22m
+
+Error: Fill action failed: locator.fill: Error: strict mode violation: locator('#username') resolved to 2 elements:
+    1) <input value="" type="text" id="username" name="username" aria-invalid="false" class="MuiInputBase-input MuiInput-input css-mnn31"/> aka getByRole('textbox', { name: 'Username' })
+    2) <p id="username" class="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium css-18eqa8y"></p> aka locator('#username').nth(1)
+
+Call log:
+[2m  - waiting for locator('#username')[22m
+
+    at ElementActions.fill (C:\.automation\Personal\Playwright-TypeScript\src\actions\element.actions.ts:90:13)
+    at LoginPage.fillUsername (C:\.automation\Personal\Playwright-TypeScript\src\pages\login.page.ts:46:5)
+    at LoginPage.login (C:\.automation\Personal\Playwright-TypeScript\src\pages\login.page.ts:80:5)
+    at C:\.automation\Personal\Playwright-TypeScript\tests\login-page.spec.ts:15:9
+2026-07-21 11:12:32 [ERROR] [Reporter]: 0 test(s) failed, 0 test(s) passed.
+2026-07-21 11:18:28 [ERROR] [Reporter]: Test Failure: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByText('Admin Dashboard')
+Expected: visible
+Error: strict mode violation: getByText('Admin Dashboard') resolved to 2 elements:
+    1) <h6 class="MuiTypography-root MuiTypography-h6 css-1pnwouy">Admin Dashboard</h6> aka getByRole('heading', { name: 'Admin Dashboard' })
+    2) <div class="MuiBox-root css-28bjv2">…</div> aka locator('#menu-appbar').getByText('Admin Dashboard')
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 30000ms[22m
+[2m  - waiting for getByText('Admin Dashboard')[22m
+
+Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByText('Admin Dashboard')
+Expected: visible
+Error: strict mode violation: getByText('Admin Dashboard') resolved to 2 elements:
+    1) <h6 class="MuiTypography-root MuiTypography-h6 css-1pnwouy">Admin Dashboard</h6> aka getByRole('heading', { name: 'Admin Dashboard' })
+    2) <div class="MuiBox-root css-28bjv2">…</div> aka locator('#menu-appbar').getByText('Admin Dashboard')
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 30000ms[22m
+[2m  - waiting for getByText('Admin Dashboard')[22m
+
+    at SuperAdminPage.expectLandedInAdminDashboard (C:\.automation\Personal\Playwright-TypeScript\src\pages\admin\superadmin.pages.ts:21:49)
+    at C:\.automation\Personal\Playwright-TypeScript\tests\login-page.spec.ts:16:9
+2026-07-21 11:18:28 [ERROR] [Reporter]: 0 test(s) failed, 0 test(s) passed.
+2026-07-21 11:21:06 [ERROR] [TC_AP_0001 - Verify Main Page screen of 77QA QA tool ]: Failed to click on element: "getByText('AUTHENTICATE').locator('//h6')". Error: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for getByText('AUTHENTICATE').locator('//h6')[22m
+
+2026-07-21 11:21:08 [ERROR] [Reporter]: Test Failure: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - Error: Click action failed: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for getByText('AUTHENTICATE').locator('//h6')[22m
+
+Error: Click action failed: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for getByText('AUTHENTICATE').locator('//h6')[22m
+
+    at ElementActions.click (C:\.automation\Personal\Playwright-TypeScript\src\actions\element.actions.ts:50:13)
+    at LoginPage.authenticateCredential (C:\.automation\Personal\Playwright-TypeScript\src\pages\login.page.ts:67:5)
+    at LoginPage.login (C:\.automation\Personal\Playwright-TypeScript\src\pages\login.page.ts:82:5)
+    at C:\.automation\Personal\Playwright-TypeScript\tests\login-page.spec.ts:15:9
+2026-07-21 11:21:08 [ERROR] [Reporter]: 0 test(s) failed, 0 test(s) passed.
+2026-07-21 11:22:15 [ERROR] [Reporter]: Test Failure: TC_AP_0001 - Verify Main Page screen of 77QA QA tool  - Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByText('Admin Dashboard').locator('//h6')
+Expected: visible
+Timeout: 30000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 30000ms[22m
+[2m  - waiting for getByText('Admin Dashboard').locator('//h6')[22m
+
+Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByText('Admin Dashboard').locator('//h6')
+Expected: visible
+Timeout: 30000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 30000ms[22m
+[2m  - waiting for getByText('Admin Dashboard').locator('//h6')[22m
+
+    at SuperAdminPage.expectLandedInAdminDashboard (C:\.automation\Personal\Playwright-TypeScript\src\pages\admin\superadmin.pages.ts:21:49)
+    at C:\.automation\Personal\Playwright-TypeScript\tests\login-page.spec.ts:16:9
+2026-07-21 11:22:15 [ERROR] [Reporter]: 0 test(s) failed, 0 test(s) passed.

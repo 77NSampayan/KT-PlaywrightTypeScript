@@ -1,0 +1,49 @@
+{
+  "name": "cline-playwright-ts",
+  "version": "1.0.0",
+  "description": "A robust and maintainable Playwright TypeScript framework combining best practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:report": "playwright show-report",
+    "test:coverage": "nyc npm run test",
+    "test:coverage:report": "nyc report --reporter=html",
+    "test:coverage:summary": "node scripts/coverage-summary.js",
+    "test:staging": "set ENVIRONMENT=staging&& playwright test",
+    "test:staging:headed": "set ENVIRONMENT=staging&& playwright test --headed",
+    "test:prod": "set ENVIRONMENT=prod&& playwright test",
+    "test:prod:headed": "set ENVIRONMENT=prod&& playwright test --headed",
+    "lint": "eslint . --ext .ts",
+    "lint:fix": "eslint . --ext .ts --fix"
+  },
+  "keywords": [
+    "playwright",
+    "typescript",
+    "e2e",
+    "testing",
+    "automation",
+    "pom"
+  ],
+  "author": "Cline SR",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^22.19.1",
+    "@typescript-eslint/eslint-plugin": "^8.65.0",
+    "@typescript-eslint/parser": "^8.65.0",
+    "c8": "^12.0.0",
+    "eslint": "^10.8.0",
+    "istanbul-lib-instrument": "^6.0.3",
+    "nyc": "^18.0.0",
+    "source-map-support": "^0.5.21",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "playwright": "^1.61.1",
+    "winston": "^3.17.0"
+  }
+}
