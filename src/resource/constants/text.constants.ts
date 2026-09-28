@@ -9,5 +9,15 @@ export const TextConstants = {
 
     SauceDemoInventoryPage: {
         title: "Products"
+    },
+
+    SauceDemoCheckoutPage: {
+        missingFirstNameError: "Error: First Name is required",
+        missingLastNameError: "Error: Last Name is required",
+        missingPostalCodeError: "Error: Postal Code is required"
+    },
+
+    SauceDemoCheckoutCompletePage: {
+        header: "Thank you for your order!"
     }
 } as const

@@ -2,12 +2,22 @@ import { test as base } from '@playwright/test';
 import { Logger } from '@utils/logger-util';
 import { SauceDemoLoginPage } from '@pages/sauce-demo/login.page';
 import { SauceDemoInventoryPage } from '@pages/sauce-demo/inventory.page';
+import { SauceDemoProductDetailPage } from '@pages/sauce-demo/product-detail.page';
+import { SauceDemoCartPage } from '@pages/sauce-demo/cart.page';
+import { SauceDemoCheckoutStepOnePage } from '@pages/sauce-demo/checkout-step-one.page';
+import { SauceDemoCheckoutStepTwoPage } from '@pages/sauce-demo/checkout-step-two.page';
+import { SauceDemoCheckoutCompletePage } from '@pages/sauce-demo/checkout-complete.page';
 
 // Define types for our custom fixtures
 export type TestFixtures = {
   logger: Logger;
   sauceDemoLoginPage: SauceDemoLoginPage;
   sauceDemoInventoryPage: SauceDemoInventoryPage;
+  sauceDemoProductDetailPage: SauceDemoProductDetailPage;
+  sauceDemoCartPage: SauceDemoCartPage;
+  sauceDemoCheckoutStepOnePage: SauceDemoCheckoutStepOnePage;
+  sauceDemoCheckoutStepTwoPage: SauceDemoCheckoutStepTwoPage;
+  sauceDemoCheckoutCompletePage: SauceDemoCheckoutCompletePage;
   // navigation: Navigation;
   // Add other page objects here as needed, e.g., inventoryPage: InventoryPage;
 };
@@ -34,8 +44,32 @@ export const test = base.extend<TestFixtures>({
   sauceDemoInventoryPage: async({ page, logger }, use) => {
     const sauceDemoInventoryPage = new SauceDemoInventoryPage(page, logger);
     await use(sauceDemoInventoryPage);
-  }
+  },
 
+  sauceDemoProductDetailPage: async({ page, logger }, use) => {
+    const sauceDemoProductDetailPage = new SauceDemoProductDetailPage(page, logger);
+    await use(sauceDemoProductDetailPage);
+  },
+
+  sauceDemoCartPage: async({ page, logger }, use) => {
+    const sauceDemoCartPage = new SauceDemoCartPage(page, logger);
+    await use(sauceDemoCartPage);
+  },
+
+  sauceDemoCheckoutStepOnePage: async({ page, logger }, use) => {
+    const sauceDemoCheckoutStepOnePage = new SauceDemoCheckoutStepOnePage(page, logger);
+    await use(sauceDemoCheckoutStepOnePage);
+  },
+
+  sauceDemoCheckoutStepTwoPage: async({ page, logger }, use) => {
+    const sauceDemoCheckoutStepTwoPage = new SauceDemoCheckoutStepTwoPage(page, logger);
+    await use(sauceDemoCheckoutStepTwoPage);
+  },
+
+  sauceDemoCheckoutCompletePage: async({ page, logger }, use) => {
+    const sauceDemoCheckoutCompletePage = new SauceDemoCheckoutCompletePage(page, logger);
+    await use(sauceDemoCheckoutCompletePage);
+  }
 
   // You can add more page object fixtures here following the same pattern.
   // Example:
